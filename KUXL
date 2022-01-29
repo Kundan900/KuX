@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kundan900/KunLockX/main/Protected.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kundan900/KunLockX/main/Protected%20(1).lua"))()
